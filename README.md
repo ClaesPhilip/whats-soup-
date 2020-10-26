@@ -17,7 +17,7 @@ Jag valde efter några veckor in i projektet att satsa på ´For you - soppa´, 
 
 
 ## Sammanfattning
-jag är väldigt nöjd med projektet. Det har varit några up and downs men jag känner att jag aldrig har lärt mig så mycket 
+jag är väldigt nöjd med projektet. Det har varit några ups and downs men jag känner att jag aldrig har lärt mig så mycket 
 som jag gjort under det här projektet, så det är riktigt kul.
 Skönt och känna sig lite förbered inför LIA:an som kommer nu om några dagar också. 
 
