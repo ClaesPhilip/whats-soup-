@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import LandingPage from '../pages/landing';
+import Register from '../pages/cart/register/index';
 import Store from '../pages/store';
 import About from '../pages/About';
 import NotFound from '../pages/NotFound';
@@ -16,6 +17,7 @@ const Routes = () => {
     <Router>
         <Switch>
           <Route exact path="/" component={LandingPage} />
+          <Route path="/register" component={Register} />
           <Route path="/about" component={About} />
           <Route path="/store" component={Store}/>
           <Route path="/cart" component={Cart} />
