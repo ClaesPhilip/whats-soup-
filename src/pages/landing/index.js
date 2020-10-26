@@ -11,8 +11,8 @@ const LandingPage = () => {
             <h3 className='landing-head'>what´s soup?</h3>
 
             <Link to="/store" className="landingBtn">Go to store</Link>
-            <Link to="/store" className="landingBtn">Log in</Link>
-            <Link to="/store" className="landingBtn">Register</Link>
+            <Link to="/Register" className="landingBtn">Log in</Link>
+            <Link to="/Register" className="landingBtn">Register</Link>
         </div>
     );
 }
