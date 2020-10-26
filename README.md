@@ -7,7 +7,7 @@ Det här projektet var kul men lite svårt vissa stunder.
 Jag känner att jag har lyckats bra med uppgiften, även om jag har behövt göra små ändringar på stylingen/layouten. 
 
 Mitt första problem med våran UX-design var vårat flöde. Som Sussi säger i våran feedback, 
--6. Vidare är det för många steg innan jag kommer till betalläget. Det blir väldigt lätt att tappa bort sig på vägen och risken är då stor om detta är en skarp produkt att kunden tröttnar och överger tjänsten. Se därför över antalet steg som ni har i köpflödet och gör dessa valbara ( t ex tillbehör och läsk). 
+- 6. Vidare är det för många steg innan jag kommer till betalläget. Det blir väldigt lätt att tappa bort sig på vägen och risken är då stor om detta är en skarp produkt att kunden tröttnar och överger tjänsten. Se därför över antalet steg som ni har i köpflödet och gör dessa valbara ( t ex tillbehör och läsk). 
 
 Så jag tog denna feedbacken och tänkte hur jag skulle förenkla det. Jag började tänka, och kom fram till att en scrollbar meny med alla olika produkter som t.ex soup, bread, treats osv skulle göra flödet mycket enklare och smidigare för kunden. 
 Dock gjorde det att designen blev lite annorlunda ifrån våran ux-design, men jag kände att det var det värt.
